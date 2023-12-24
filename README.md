@@ -1,4 +1,4 @@
-<h1>Java Paint Project</h1>
+<h1>Java Paint Calculator Project</h1>
 
 
 <h2>Description</h2>
